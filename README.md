@@ -1,6 +1,7 @@
+<!---
 👋 Hello! I'm Yong, who has a strong interest in machine learning, reinforcement learning, database optimization, NLP and robotics. Here, you'll find a collection of my projects ranging from advanced AI applications to database performance enhancements!
 
-<!---
+
 - 👋 Hi, I’m @neurokimchi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
